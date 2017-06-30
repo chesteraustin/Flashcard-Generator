@@ -21,7 +21,7 @@ console.log(firstPresidentCloze.fullText);
 console.log(firstPresidentCloze.cloze); 
 
 // " ... was the first president of the United States.
-console.log(firstPresidentCloze.partial()); 
+console.log(firstPresidentCloze.partial); 
 // "George Washington was the first president of the United States."
 
 console.log(firstPresidentCloze.fullText);
